@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""NOthing to import"""
 
 
 def validUTF8(data):
