@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""NOthing to be imported"""
 
 
 def minOperations(n):
